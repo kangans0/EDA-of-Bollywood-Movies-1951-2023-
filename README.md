@@ -32,3 +32,13 @@ df = pd.read_csv('bollywood_movie_dataset.csv')
 
 # Quick preview of the dataset
 print(df.head())
+
+
+🔍 Pre-Analysis Observations:
+The dataset spans from 1951 to 2023, offering a longitudinal view of Bollywood's evolution.
+
+Multiple genres per movie may require data normalization.
+
+Director and cast fields are text-heavy and may need tokenization or name disambiguation.
+
+Missing data in synopsis or genre columns could impact genre trend analysis.
