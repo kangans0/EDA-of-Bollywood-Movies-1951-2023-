@@ -1,5 +1,12 @@
 📂 Read My File
 
+🎬 Project Title:
+
+Lights, Camera, Data! An Exploratory Data Analysis of Bollywood Movies (1951–2023)
+
+
+
+
 This project begins with importing the **Bollywood Movie Dataset (1951–2023)**, which contains rich metadata about Hindi films spanning over seven decades.
 
 ### 📄 Dataset File:
